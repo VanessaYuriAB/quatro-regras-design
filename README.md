@@ -13,6 +13,14 @@ acessado [aqui](https://github.com/VanessaYuriAB/sobre-mim).
 
 ---
 
+## 🔗 Visualização do Projeto
+
+A página pode ser visualizada via **GitHub Pages:**
+
+➡️ https://vanessayuriab.github.io/quatro-regras-design/
+
+---
+
 ## 🎯 Objetivo do Projeto
 
 - Aplicar conceitos fundamentais de **HTML5 e CSS3**
